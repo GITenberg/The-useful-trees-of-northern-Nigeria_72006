@@ -1,11 +1,16 @@
 _repo: The-useful-trees-of-northern-Nigeria_72006
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72006-h/images/cover.jpg
 creator:
   author:
     agent_name: Lely, Hugh Vandervaes
     gutenberg_agent_id: '56496'
     url: http://www.gutenberg.org/2009/agents/56496
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72006#The-useful-trees-of-northern-Nigeria
 gutenberg_issued: '2023-11-02'
 identifiers:
   gutenberg: '72006'
